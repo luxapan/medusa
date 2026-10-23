@@ -538,7 +538,7 @@
       "editHint": "Dodajte medije proizvodu kako biste ga prikazali u sučelju trgovine.",
       "manageImageVariants": "Upravljaj povezanim varijantama",
       "makeThumbnail": "Postavi kao sličicu",
-      "uploadImagesLabel": "Otpremite slike",
+      "uploadImagesLabel": "Prenesite slike",
       "uploadImagesHint": "Povucite i ispustite slike ovdje ili kliknite za prijenos.",
       "invalidFileType": "'{{name}}' nije podržana vrsta datoteke. Podržane vrste datoteka su: {{types}}.",
       "fileTooLarge": "Jedna ili više datoteka premašuje najveću dopuštenu veličinu od {{size}}: {{name}}",
