@@ -453,7 +453,7 @@
       "inventory": {
         "heading": "Sastavnice",
         "label": "Dodajte artikle u sastavnicu varijante.",
-        "itemPlaceholder": "Odaberite artikal",
+        "itemPlaceholder": "Odaberite artikl",
         "quantityPlaceholder": "Koliko je komada potrebno za sastavnicu?"
       },
       "variants": {
@@ -700,15 +700,15 @@
         "manageItems": "Upravljaj artiklima",
         "notManagedDesc": "Inventar se ne prati za ovu varijantu. Uključite „Upravljanje inventarom” kako biste pratili inventar ove varijante.",
         "manageKit": "Upravljaj sastavnicom",
-        "navigateToItem": "Idi na artikal",
+        "navigateToItem": "Idi na artikl",
         "actions": {
-          "inventoryItems": "Idi na artikal",
+          "inventoryItems": "Idi na artikl",
           "inventoryKit": "Prikaži artikle sastavnice"
         },
         "inventoryKit": "Sastavnica",
         "inventoryKitHint": "Sadrži li ova varijanta više artikala?",
         "validation": {
-          "itemId": "Molimo odaberite artikal.",
+          "itemId": "Molimo odaberite artikl.",
           "quantity": "Količina je obvezna. Unesite pozitivan broj."
         },
         "header": "Zalihe i Inventar",
@@ -719,7 +719,7 @@
         "allowBackordersHint": "Kada je omogućeno, kupci mogu kupiti varijantu čak i ako nema dostupne količine.",
         "toast": {
           "levelsBatch": "Stanja zaliha uspješno ažurirana.",
-          "update": "Artikal uspješno ažuriran.",
+          "update": "Artikl uspješno ažuriran.",
           "updateLevel": "Stanje zaliha uspješno ažurirano.",
           "itemsManageSuccess": "Artikli uspješno ažurirani."
         }
@@ -908,19 +908,19 @@
     "associatedVariants": "Povezane varijante",
     "manageLocations": "Upravljajte lokacijama",
     "manageLocationQuantity": "Upravljajte količinom na lokaciji",
-    "deleteWarning": "Uskoro ćete obrisati artikal. Ova radnja se ne može poništiti.",
+    "deleteWarning": "Uskoro ćete obrisati artikl. Ova radnja se ne može poništiti.",
     "editItemDetails": "Uredi detalje artikla",
     "quantityAcrossLocations": "{{quantity}} na {{locations}} lokacija",
     "levelDeleted": "Stanje zaliha uspješno je izbrisano.",
     "create": {
-      "title": "Kreiraj artikal",
+      "title": "Kreiraj artikl",
       "details": "Detalji",
       "availability": "Dostupnost",
       "locations": "Lokacije",
       "attributes": "Atributi",
       "requiresShipping": "Potrebna dostava",
       "requiresShippingHint": "Zahtijeva li ovaj artikl dostavu?",
-      "successToast": "Artikal je uspješno kreiran."
+      "successToast": "Artikl je uspješno kreiran."
     },
     "reservation": {
       "header": "Rezervacija za {{itemName}}",
@@ -934,7 +934,7 @@
       "reservedAtLocation": "Rezervirano na ovoj lokaciji",
       "reservedAmount": "Količina za rezervaciju",
       "create": "Kreiraj rezervaciju",
-      "itemToReserve": "Artikal za rezervaciju",
+      "itemToReserve": "Artikl za rezervaciju",
       "quantityPlaceholder": "Koliko želite rezervirati?",
       "descriptionPlaceholder": "Kakav tip rezervacije je ovo?",
       "successToast": "Rezervacija je uspješno kreirana.",
@@ -953,7 +953,7 @@
     "toast": {
       "updateLocations": "Lokacije su uspješno ažurirane.",
       "updateLevel": "Stanje zaliha uspješno je ažurirano.",
-      "updateItem": "Artikal je uspješno ažuriran."
+      "updateItem": "Artikl je uspješno ažuriran."
     },
     "stock": {
       "title": "Ažuriraj stanja zaliha",
@@ -1610,7 +1610,7 @@
           "canceled": "Pošiljka otkazana",
           "shipped": "Artikli otpremljeni",
           "delivered": "Artikli dostavljeni",
-          "items_one": "{{count}} artikal",
+          "items_one": "{{count}} artikl",
           "items_other": "{{count}} artikala",
           "items_few": "{{count}} artikla"
         },
@@ -1618,7 +1618,7 @@
           "created": "Povrat #{{returnId}} zatražen",
           "canceled": "Povrat #{{returnId}} otkazan",
           "received": "Povrat #{{returnId}} zaprimljen",
-          "items_one": "{{count}} artikal vraćen",
+          "items_one": "{{count}} artikl vraćen",
           "items_other": "{{count}} artikala vraćeno",
           "items_few": "{{count}} artikla vraćena"
         },
@@ -1629,14 +1629,14 @@
         "claim": {
           "created": "Zahtjev za reklamaciju #{{claimId}} podnesen",
           "canceled": "Reklamacija #{{claimId}} otkazana",
-          "itemsInbound": "{{count}} artikal za povrat",
-          "itemsOutbound": "{{count}} artikal za slanje"
+          "itemsInbound": "Artikala za povrat: {{count}}",
+          "itemsOutbound": "Artikala za slanje: {{count}}"
         },
         "exchange": {
           "created": "Zahtjev za zamjenu #{{exchangeId}} podnesen",
           "canceled": "Zamjena #{{exchangeId}} otkazana",
-          "itemsInbound": "{{count}} artikal za povrat",
-          "itemsOutbound": "{{count}} artikal za slanje"
+          "itemsInbound": "Artikala za povrat: {{count}}",
+          "itemsOutbound": "Artikala za slanje: {{count}}"
         },
         "edit": {
           "requested": "Zahtjev za izmjenu narudžbe #{{editId}} podnesen",
@@ -3391,7 +3391,7 @@
     "manageInventory": "Upravljaj inventarom",
     "inventoryKit": "Sastavnica",
     "inventoryItems": "Artikli",
-    "inventoryItem": "Artikal",
+    "inventoryItem": "Artikl",
     "requiredQuantity": "Potrebna količina",
     "description": "Opis",
     "email": "E-pošta",
